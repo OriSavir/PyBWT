@@ -4,8 +4,8 @@ with open("README.md", "r") as f:
     desc = f.read()
 
 setup(
-    name="PyBWT",
-    version="0.1",
+    name="pybwt",
+    version="0.1.1",
     packages=find_packages(),
     install_requires=[
     ],
