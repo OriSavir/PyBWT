@@ -16,12 +16,12 @@ PyBWT is a Python implementation of the **Burrows-Wheeler Transform (BWT)** for 
 ## 🔧 Installation
 Install the tool in a Python environment using the pip package-management system:
 ```bash
-pip install PyBWT
+pip install pybwt
 ```
 
 Import the tool into your file by
 ```bash
-import PyBWT
+import pybwt
 ```
 and start using!
 
