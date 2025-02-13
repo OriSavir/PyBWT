@@ -31,3 +31,6 @@ and start using!
 The tool is relatively simple at the moment and functions largely through the BWT_Container class.
 For a simple example, please visit the project's git repo.
 Additional documentation will be created shortly.
+
+---
+**PyBWT is now on [PyPi](https://pypi.org/project/pybwt/)!**
