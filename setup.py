@@ -10,6 +10,7 @@ setup(
     install_requires=[
     ],
     author="Oriel Savir",
+    url="https://github.com/OriSavir/PyBWT",
     long_description=desc,
     long_description_content_type="text/markdown",
 )
